@@ -8,7 +8,7 @@ Batangas State University, Alangilan Campus
 
 | Name | Student Number | Section |
 |---|---|---|
-| Rivera, Ralph | | Mexe-4103 |
+| Rivera, Ralph | 22-06648 | Mexe-4103 |
 | Rodelas, Desmond | 22-01230 | Mexe-4103 |
 
 ## Notebook links
