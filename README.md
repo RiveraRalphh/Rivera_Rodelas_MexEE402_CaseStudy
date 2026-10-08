@@ -25,7 +25,7 @@ Batangas State University, Alangilan Campus
 
 ## What we learned
 
-# Chapter 6 : Data Cleaning and Imputation
+### Chapter 6 : Data Cleaning and Imputation
 
 One short paragraph per chapter, Ch1_2_3 to Ch9. Say what the chapter taught
 you and what surprised you. Not what the library does, but what you understood.
